@@ -1,0 +1,20 @@
+{
+  "name": "Agressive Sport Electro",
+  "energy": "medium",
+  "genre": "electronica-electro",
+  "moods": [
+    "angry",
+    "heavy-ponderous",
+    "dark"
+  ],
+  "durations": [
+    "60-120"
+  ],
+  "instruments": [
+    "percussion",
+    "synth"
+  ],
+  "bpms": [
+    "90-110"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "An Electro",
+  "energy": "high",
+  "genre": "electronica-electro",
+  "moods": [
+    "heavy-ponderous",
+    "dark"
+  ],
+  "durations": [
+    "60-120"
+  ],
+  "instruments": [
+    "percussion",
+    "synth"
+  ],
+  "bpms": [
+    "110-140"
+  ]
+}

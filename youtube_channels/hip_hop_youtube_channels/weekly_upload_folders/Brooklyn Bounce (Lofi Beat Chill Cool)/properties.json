@@ -1,0 +1,20 @@
+{
+    "name": "Lofi Beat Chill Cool",
+    "energy": "medium",
+    "genre": "hip-hop-lofi",
+    "moods": [
+        "peaceful",
+        "mysterious",
+        "relaxing"
+    ],
+    "durations": [
+        "60-120"
+    ],
+    "instruments": [
+        "synth",
+        "bass"
+    ],
+    "bpms": [
+        "90-110"
+    ]
+}

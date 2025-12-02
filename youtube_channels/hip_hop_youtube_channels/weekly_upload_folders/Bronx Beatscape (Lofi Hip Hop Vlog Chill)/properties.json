@@ -1,0 +1,21 @@
+{
+    "name": "Lofi Hip Hop Vlog Chill",
+    "energy": "medium",
+    "genre": "hip-hop-lofi",
+    "moods": [
+        "relaxing",
+        "peaceful",
+        "hopeful"
+    ],
+    "durations": [
+        "60-120"
+    ],
+    "instruments": [
+        "piano",
+        "percussion",
+        "bass"
+    ],
+    "bpms": [
+        "90-110"
+    ]
+}
